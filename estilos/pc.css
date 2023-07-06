@@ -12,6 +12,9 @@
 
     .image{
         background-image: url("../imagens/image-product-desktop.jpg");
+        background-position: center;
+        height: 600px;
+        width: 300px;
     }
 
     .content{
