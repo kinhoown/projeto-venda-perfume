@@ -38,7 +38,6 @@ body{
     background-image: url("../imagens/image-product-mobile.jpg");
     background-size: cover;
     height: 280px;
-    display: block;
 }
 
 .content{

@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+@media screen and (min-width: 768px) {
+    .container{
+        background-color: aqua;
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: center;
+        height: 600px;
+        width: 600px;
+    }
+
+    .image{
+        background-image: url("../imagens/image-product-desktop.jpg");
+    }
+
+    .content{
+        height: 600px;
+        width: 240px;
+    }
+}
